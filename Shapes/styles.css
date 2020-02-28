@@ -1,26 +1,18 @@
-.grey-box {
+.square-box {
     background-color: grey;
     color:white;
     padding:25px 5px 25px 20px; 
     border-bottom:5px black solid; 
-
-
 }
-.circle {
-    height: 200px;
-    width: 200px; 
-    background-color:blue ;
-    border-radius: 50%;
-    margin: 35px;
-}
-.oval{
-    height: 200px;
-    width: 200px; 
-    background-color:blue ;
-    border-radius: 50%;
-    border:10px solid orange
+
+.square-box2 {
+    background-color: grey;
+    color:white;
+    padding:25px 5px 25px 20px; 
+    border-top: 4px  black solid; 
 
 }
+
 .square {
     height:200px; 
     width:200px;
@@ -30,31 +22,6 @@
 
 }
 
-}
-.bottombox {
-    background-color: grey;
-    color:white;
-    padding:25px 5px 25px 20px; 
-    border-bottom:5px black solid; 
-    
-
-}
-p {
-    text-decoration: underline;
-}
-.square-box {
-    background-color: grey;
-    color:white;
-    padding:25px 5px 25px 20px; 
-    border-bottom:5px black solid; 
-}
-.squarebox {
-    background-color: grey;
-    color:white;
-    padding:25px 5px 25px 20px; 
-    border-top: 4px  black solid; 
-
-}
 .squareborder {
     height:200px; 
     width:200px;
@@ -62,3 +29,26 @@ p {
     padding:25px 25px 25px 25px; 
     margin: 35px;
     border: 10px solid blue; 
+}
+
+.circle {
+    height: 200px;
+    width: 200px; 
+    background-color:blue ;
+    border-radius: 50%;
+    margin: 35px;
+}
+
+.oval{
+    height: 200px;
+    width: 200px; 
+    background-color:blue ;
+    border-radius: 50%;
+    border:10px solid orange
+
+}
+
+p {
+    text-decoration: underline;
+}
+
